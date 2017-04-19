@@ -1,4 +1,5 @@
-me="Rectangle-Build" default="main" basedir=".">
+<?xml version="1.0"?>
+<project name="Rectangle-Build" default="main" basedir=".">
   <property environment="env"/>
 
   <!-- Sets variables which can later be used. -->
